@@ -1,0 +1,16 @@
+histoires-tests
+v0.1
+
+record your voice and get let the computer generate its own text and audio using the material you provided. 
+
+to get going, just make sure to check the mic reset checkbox, then press start recording when you are ready. 
+
+record your voice (read something) and make a conscious pause between sentences so as to allow for the mic to reset. 
+
+when you are done speaking, press stop recording.
+
+the sentences which you provided are logged on the right on the screen. by clicking on them, you will pull up (on the left) the recording (which you can Play or Download), as well as the list of words and their time stamps. Click on a word from the list to play that specific segment of the audio file.
+
+once the RiMarkov object has been fed enough sentences, it can now generate text. Click Generate Text to generate a new sentence. Click the checkbox beside it to hear the phrase played back using audio snippets re-stitched together.
+
+depending on what you are recording, it may take a long time before RiMarkov is ready. the ideal text to feed RiMarkov is one with many different word repetitions and (i think) sentences that aren't too long. 
